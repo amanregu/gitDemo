@@ -1,3 +1,3 @@
 # README
 
-Workshop on Git.
+Workshop on Git with team.
